@@ -1,0 +1,11 @@
+I’ll collect data from a YouTube video for this task, for which we need to use the YouTube data API. You can follow the steps below to sign up and get access to the YouTube data API:
+Go to Google Cloud Console.
+Click on the project drop-down at the top, then “New Project”.
+Enter a project name and click “Create”.
+In the Google Cloud Console, navigate to “APIs & Services” > “Library”.
+Search for “YouTube Data API v3” and click on it.
+Click “Enable”.
+Go to “APIs & Services” > “Credentials”.
+Click “+ CREATE CREDENTIALS” and select “API key”.
+Copy the generated API key.
+If you find any issues while generating the API, feel free to reach me on Github or Linkedin.
